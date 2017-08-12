@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    tools:context="com.tuonbondol.androidcropcirclelayout.MainActivity">
+
+    <com.tuonbondol.cropcirclelayout.RoundedCornerLayout
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_margin="20dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/user_profile" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#424242"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="ADD"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </com.tuonbondol.cropcirclelayout.RoundedCornerLayout>
+
+    <com.tuonbondol.cropcirclelayout.RoundedCornerLayout
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_margin="20dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/user_profile" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#424242"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="EDIT"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+    </com.tuonbondol.cropcirclelayout.RoundedCornerLayout>
+
+</LinearLayout>
