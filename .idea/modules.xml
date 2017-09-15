@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidCropCircleLayout.iml" filepath="$PROJECT_DIR$/AndroidCropCircleLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidCropCircleLayout.iml" filepath="$PROJECT_DIR$/AndroidCropCircleLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropcirclelayout/cropcirclelayout.iml" filepath="$PROJECT_DIR$/cropcirclelayout/cropcirclelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/cropcirclelayout/cropcirclelayout.iml" filepath="$PROJECT_DIR$/cropcirclelayout/cropcirclelayout.iml" />
     </modules>
   </component>
