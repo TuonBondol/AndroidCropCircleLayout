@@ -25,7 +25,7 @@ Step 2
 
 ```
 dependencies {
-	         compile 'com.github.BondolTuon:AndroidCropCircleLayout:1.0.3'
+	         compile 'com.github.TuonBondol:AndroidCropCircleLayout:1.0.3'
 	}
 ```
 
